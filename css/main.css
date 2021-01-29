@@ -88,6 +88,17 @@ h3 a {
     font-weight: 200;
 }
 
+ul {
+    padding: 30px;
+    display: flex;
+    list-style: none;
+    font-size: 50px;
+}
+
+li {
+    padding: 30px;
+}
+
 p {
     font-weight: 200;
     font-size: 14px;
@@ -135,10 +146,14 @@ p {
 
     h2 {
         font-size: 14px;
-        font-weight: 200;
+        font-weight: 400;
     }
 
     h3 {
         font-size: 24px;
+    }
+    
+    ul {
+        font-size: 30px;
     }
 }
